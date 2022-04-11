@@ -1,0 +1,7 @@
+D:\project\โค้ดเมย์\Quiz-Assignment-main\Quiz\Quiz\obj\Debug\net6.0-windows\Student.csproj.AssemblyReference.cache
+D:\project\โค้ดเมย์\Quiz-Assignment-main\Quiz\Quiz\obj\Debug\net6.0-windows\Student.Form1.resources
+D:\project\โค้ดเมย์\Quiz-Assignment-main\Quiz\Quiz\obj\Debug\net6.0-windows\Student.csproj.GenerateResource.cache
+D:\project\โค้ดเมย์\Quiz-Assignment-main\Quiz\Quiz\obj\Debug\net6.0-windows\Student.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\โค้ดเมย์\Quiz-Assignment-main\Quiz\Quiz\obj\Debug\net6.0-windows\Student.AssemblyInfoInputs.cache
+D:\project\โค้ดเมย์\Quiz-Assignment-main\Quiz\Quiz\obj\Debug\net6.0-windows\Student.AssemblyInfo.cs
+D:\project\โค้ดเมย์\Quiz-Assignment-main\Quiz\Quiz\obj\Debug\net6.0-windows\Student.csproj.CoreCompileInputs.cache
